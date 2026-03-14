@@ -20,11 +20,7 @@ The goal of this project is to model the evolution of an epidemic in a country u
   - **R(t):** Recovered population  
 - Differential equations govern the flow:  
 
-\[
-\frac{dS}{dt} = -\beta \frac{S I}{N}, \quad
-\frac{dI}{dt} = \beta \frac{S I}{N} - \gamma I, \quad
-\frac{dR}{dt} = \gamma I
-\]  
+![Equation DF](results/figures/eqn.png)  
 
 - **β (beta):** infection rate  
 - **γ (gamma):** recovery rate  
