@@ -77,23 +77,23 @@ figures/
 ## Figures
 
 ### 1. Epidemic Curve
-![Epidemic Curve](results/figures/epidemic_curve.png)  
+![Epidemic Curve](epidemic_curve.png)  
 *Daily confirmed cases from the dataset.*
 
 ### 2. Logarithmic Growth
-![Log Growth](results/figures/log_growth.png)  
+![Log Growth](log_growth.png)  
 *Shows the exponential growth trend.*
 
 ### 3. Real SIR Data
-![Real SIR](results/figures/sir_real_data.png)  
+![Real SIR](sir_real_data.png)  
 *Real Susceptible, Infected, and Recovered values.*
 
 ### 4. Model vs Real Data
-![Model vs Real](results/figures/model_vs_real.png)  
+![Model vs Real](model_vs_real.png)  
 *Comparison between SIR model prediction and real infected cases.*
 
 ### 5. Full SIR Simulation
-![SIR Simulation](results/figures/sir_simulation_fitted.png)  
+![SIR Simulation](sir_simulation_fitted.png)  
 *Simulated SIR compartments using fitted parameters.*
 
 ---
