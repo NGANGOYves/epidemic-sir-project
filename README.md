@@ -120,7 +120,7 @@ This project is **for educational and research purposes only**.
 
 ## Author
 
-**Yves Lucas NGANGO**  
+**NGANGO YVES**  
 [GitHub Profile](https://github.com/NGANGOYves)
 
 ---
