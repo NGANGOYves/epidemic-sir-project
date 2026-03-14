@@ -41,7 +41,13 @@ The goal of this project is to model the evolution of an epidemic in a country u
 ## Folder Structure
 
 
-
+epidemic-sir-project/
+data/ # Place your Kaggle dataset here
+results/ # Generated figures will be saved here automatically
+figures/
+     sir_project.ipynb # Main Jupyter notebook with full code is at this level
+     .gitignore # To exclude unnecessary files from git
+     README.md #for more explanation find out this readme
 
 
 ---
